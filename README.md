@@ -1,0 +1,3 @@
+# DynamicTheme
+
+Android dynamic theme
